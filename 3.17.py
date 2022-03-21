@@ -15,8 +15,8 @@ while flag == False:
         else:
             print("Bingo!")
             a = int(input("good job!"))
-            flag == True
-            import random
+
+
 
 
 
